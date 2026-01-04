@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>V-News</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="header">
+    <div class="container">
+      <h1>V-News</h1>
+      <p class="sub">Quellen für eigene News & Updates.</p>
+
+      <div class="controls">
+        <input id="search" type="search" placeholder="Suchen…" />
+        <select id="category">
+          <option value="all">Alle Kategorien</option>
+        </select>
+        <select id="sort">
+          <option value="newest">Neueste zuerst</option>
+          <option value="oldest">Älteste zuerst</option>
+        </select>
+      </div>
+    </div>
+  </header>
+
+  <main class="container">
+    <div id="list" class="grid"></div>
+
+    <article id="detail" class="detail hidden">
+      <button id="back" class="back">← Zurück</button>
+      <h2 id="d-title"></h2>
+      <div class="meta">
+        <span id="d-date"></span> · <span id="d-category"></span>
+      </div>
+      <p id="d-teaser" class="teaser"></p>
+      <div id="d-content" class="content"></div>
+    </article>
+  </main>
+
+  <footer class="footer">
+    <div class="container">
+      <small>© <span id="year"></span> V-News</small>
+    </div>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

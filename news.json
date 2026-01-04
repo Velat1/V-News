@@ -1,0 +1,38 @@
+[
+  {
+    "id": "willkommen",
+    "title": "Willkommen bei V-News",
+    "date": "2026-01-04",
+    "category": "Allgemein",
+    "teaser": "Hier findest du meine eigenen News - kurz, uebersichtlich, durchsuchbar.",
+    "content": [
+      "Das ist ein Beispielartikel.",
+      "Du kannst Inhalte in news.json ergaenzen und die Seite aktualisiert automatisch."
+    ]
+  },
+  {
+    "id": "projekt",
+    "title": "Projekt-Update: Website live",
+    "date": "2025-12-22",
+    "category": "Updates",
+    "teaser": "Ein kleines Update zum aktuellen Stand.",
+    "content": [
+      "Heute habe ich die Grundstruktur fertiggestellt.",
+      "Als Naechstes kommen Tags und ein schoenes Layout fuer Bilder."
+    ]
+  },
+  {
+    "id": "erste-eigene-news",
+    "title": "Meine erste eigene News",
+    "date": "2026-01-04",
+    "category": "Eigene Projekte",
+    "teaser": "Heute starte ich meine eigene News-Webseite - ein kleines Projekt mit grossen Plaenen.",
+    "content": [
+      "Heute ist ein besonderer Tag: Ich habe begonnen, meine eigene News-Webseite aufzubauen.",
+      "Die Idee dahinter ist, meine eigenen Gedanken, Updates und Projekte an einem Ort zu sammeln und uebersichtlich zu praesentieren.",
+      "Aktuell befindet sich die Seite noch im Aufbau, aber grundlegende Funktionen wie Kategorien, Suche und Einzelansichten funktionieren bereits.",
+      "In Zukunft plane ich, regelmaessig neue Artikel zu veroeffentlichen und das Design weiter zu verbessern.",
+      "Dieser Artikel dient als Testbeitrag - und gleichzeitig als Startschuss fuer dieses Projekt."
+    ]
+  }
+]
