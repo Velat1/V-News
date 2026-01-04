@@ -4,10 +4,13 @@
     "title": "Willkommen bei V-News",
     "date": "2026-01-04",
     "category": "Allgemein",
-    "teaser": "Hier findest du meine eigenen News - kurz, uebersichtlich, durchsuchbar.",
+    "teaser": "V-News ist eine unabhängige Plattform zur Dokumentation und Einordnung globaler Ereignisse auf Faktenbasis.",
     "content": [
-      "Das ist ein Beispielartikel.",
-      "Du kannst Inhalte in news.json ergaenzen und die Seite aktualisiert automatisch."
+      "Über V-News",
+      "V-News habe ich gegründet, um weltweite Geschehnisse auf Basis von Fakten zu dokumentieren und öffentlich zugänglich zu machen. In einer Zeit, in der Informationen oft verzerrt, verkürzt oder emotional aufgeladen werden, ist es mein Anspruch, sachlich, ehrlich und nachvollziehbar zu berichten.",
+      "Mein Ziel ist es, bei der Wahrheit zu bleiben – auch dann, wenn sie unbequem ist. V-News soll kein Ort für Sensationen oder schnelle Urteile sein, sondern ein Raum für aufmerksames Hinschauen, Einordnung und Verantwortung.",
+      "Besonders wichtig ist mir, jenen Aufmerksamkeit zu schenken, die oft übersehen werden. Dort hinzublicken, wo kaum jemand hinschaut. Entwicklungen zu dokumentieren, die im Verborgenen stattfinden, und Fragen zu stellen, die sonst unbeantwortet bleiben.",
+      "V-News versteht sich als Stimme für die Schwachen, als kritischer Blick auf die Starken und als Versuch, gerecht, unabhängig und menschlich zu bleiben. Nicht aus Ideologie, sondern aus Überzeugung."
     ]
   },
   {
@@ -23,16 +26,17 @@
   },
   {
     "id": "erste-eigene-news",
-    "title": "Meine erste eigene News",
+    "title": "Biografie - Über mich",
     "date": "2026-01-04",
     "category": "Eigene Projekte",
-    "teaser": "Heute starte ich meine eigene News-Webseite - ein kleines Projekt mit grossen Plaenen.",
+    "teaser": "Sozialarbeiter aus Überzeugung, geprägt von Herkunft, Erfahrung und dem Willen, nicht wegzusehen.",
     "content": [
-      "Heute ist ein besonderer Tag: Ich habe begonnen, meine eigene News-Webseite aufzubauen.",
-      "Die Idee dahinter ist, meine eigenen Gedanken, Updates und Projekte an einem Ort zu sammeln und uebersichtlich zu praesentieren.",
-      "Aktuell befindet sich die Seite noch im Aufbau, aber grundlegende Funktionen wie Kategorien, Suche und Einzelansichten funktionieren bereits.",
-      "In Zukunft plane ich, regelmaessig neue Artikel zu veroeffentlichen und das Design weiter zu verbessern.",
-      "Dieser Artikel dient als Testbeitrag - und gleichzeitig als Startschuss fuer dieses Projekt."
+      "<img src= 'Velat.jpg' alt='Velat Sünün' class='bio-image'>",
+      "Ich heiße Velat Sünün, bin 26 Jahre alt und wurde am 04.05.1999 in Deutschland geboren. Ich stamme aus einer kurdischen Arbeiterfamilie und bin in einem Umfeld aufgewachsen, das von harter Arbeit, Verantwortung und Zusammenhalt geprägt war.",
+      "Nach meinem Fachabitur im Bereich Wirtschaft habe ich mich bewusst entschieden, einen anderen Weg einzuschlagen. Schon früh war es mein Wunsch, Menschen zu unterstützen und dort zu helfen, wo Hilfe gebraucht wird. Aus dieser Überzeugung heraus begann ich ein Studium der Sozialen Arbeit.",
+      "Ein besonderer Schwerpunkt meines Interesses liegt im Bereich Gewaltverbrechen. Dieses Interesse ist nicht rein theoretischer Natur. In meiner Vergangenheit bin ich selbst immer wieder mit Gewalt in Berührung gekommen.",
+      "Diese Erfahrungen haben meinen Blick geschärft – für Betroffene, für Machtverhältnisse und für die oft unsichtbaren Folgen von Gewalt.",
+      "Mich interessiert, hinzusehen, wo andere wegsehen. Mich für Menschen einzusetzen, die wenig Aufmerksamkeit bekommen, und Verantwortung zu übernehmen – aus Überzeugung und aus Menschlichkeit."
     ]
   }
 ]

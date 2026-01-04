@@ -82,7 +82,10 @@ function openDetail(id) {
   dCategory.textContent = n.category;
   dTeaser.textContent = n.teaser;
 
-  dContent.innerHTML = (n.content || []).map(p => `<p>${escapeHtml(p)}</p>`).join("");
+  dContent.innerHTML = (n.content || []).map(p => {
+    if (p.trim().startsWith("<img")) return p;
+    return `<p>${escapeHtml(p)}</p>`;
+  }).join("");
 
   history.pushState({ id }, "", `#${id}`);
 }
